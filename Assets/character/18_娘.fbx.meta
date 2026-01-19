@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 7f5e391b118008546a1d54a07cb95bc9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Alpha
+    second: {fileID: 2800000, guid: ae4d471ccc0e65e4fad7dde6c4b8f20a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ChopstickFoods_color
+    second: {fileID: 2800000, guid: efbc4057cf8190d4f84751768f635cbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ChopstickFoods_normal
+    second: {fileID: 2800000, guid: 23ea6c574e9fde44fb304578b3b8f283, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eyes_color
+    second: {fileID: 2800000, guid: d88a529e436288a45931f68f240e589c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eyes_normal
+    second: {fileID: 2800000, guid: fed3f1c7274bbc440b45fc0902923554, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eyes_rough
+    second: {fileID: 2800000, guid: 185fc465653b4694ebbdbd9ca38785d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hero_Eyelashes_normal
+    second: {fileID: 2800000, guid: 0f9d45182d8ba964bb3d765c9f9e7fc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Tools_color
+    second: {fileID: 2800000, guid: 457c5bf7f1d01fe46acbc5ba00d27965, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Tools_metallic
+    second: {fileID: 2800000, guid: 156ca572b15b85e4085a6dbe2f13bfed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Tools_normal
+    second: {fileID: 2800000, guid: b230b50a833ad0048aeb6e8d753420fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Tools_roughness
+    second: {fileID: 2800000, guid: 6ca4f18d41710f74aafd13a6de04908e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LongHair_color1
+    second: {fileID: 2800000, guid: 97991ba5ffa62974d9dcd49c8e9ceda5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LongHair_normal
+    second: {fileID: 2800000, guid: 9bd7a4d35e8da104ab8777971a5d1956, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_LittleBelt_Beige_color
+    second: {fileID: 2800000, guid: eae50e946ba1cab4b8358ff2db9d65d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_LittleBelt_normal
+    second: {fileID: 2800000, guid: 1f610b75eec174a44bf4645e2d0365db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_LittleBelt_roughness
+    second: {fileID: 2800000, guid: 80572a1cd655e34479c437e590e17ada, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManPants2_Clean_Blue_normal
+    second: {fileID: 2800000, guid: ea8c288109762bb4dbbe8a38d76fd17d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManPants2_Clean_Blue_roughness
+    second: {fileID: 2800000, guid: d650ed5bb54e3b54c867e01961b66c9b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManPants2_Clean_Green_color
+    second: {fileID: 2800000, guid: b5cd6bd41e623a54fbe4de546c72e2ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Man_Legs_color
+    second: {fileID: 2800000, guid: 15fb1ecc359b3b5478040bf89f45a63f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Man_Legs_normal
+    second: {fileID: 2800000, guid: e5f0d5885f32c614fa472ec3e6fef478, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Man_Legs_roughness
+    second: {fileID: 2800000, guid: 6456fa8054de3134190ef66f11c2d475, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal
+    second: {fileID: 2800000, guid: 3895d711f6b0cdd45ac21523b902bc7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sandals_color
+    second: {fileID: 2800000, guid: 43a0fbe1fc806cf479fcb1ab0691ed3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sandals_normal
+    second: {fileID: 2800000, guid: 12b7c5be7d63c1442a55eb1faf341e59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sandals_roughness
+    second: {fileID: 2800000, guid: 43cd1a578ef005c458c02ec110ee7354, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SeaFoods_color
+    second: {fileID: 2800000, guid: c87982c8e3767ef428981fcaeb4e0f8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SeaFoods_normal
+    second: {fileID: 2800000, guid: 2cbad83ecf496404bb681e2e4b93df3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SeaFoods_roughness
+    second: {fileID: 2800000, guid: 9a18c2cb77f8dc64f8deac6efb4a565e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Souce_01_normal
+    second: {fileID: 2800000, guid: 98883044f5fdbb445989114c22bb7839, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Souce_01_roughness
+    second: {fileID: 2800000, guid: 540d894c4cca21944a8a5d691cd5b39b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Souce_02_color
+    second: {fileID: 2800000, guid: 151249eb5d97cb84692f0f05464df38d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_color
+    second: {fileID: 2800000, guid: b4878e46fc9916b4e8ee1fde8f678a4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_normal
+    second: {fileID: 2800000, guid: e4cf07d29d431a549bc38af1abc0b35f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_rough
+    second: {fileID: 2800000, guid: 69c55f4a6eab5164cad96a478d0086bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_spec
+    second: {fileID: 2800000, guid: 91809ef0efd5f8b45b226ba2fc2b15b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: W_v4_shirt_BlueClean_roughness
+    second: {fileID: 2800000, guid: 6c233b0294a866841b44ae04271ca2eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanBody4_ Clean_Pattern9_color
+    second: {fileID: 2800000, guid: 9b4eab381734d214cb95010cb5af9ffb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanBody4_ Clean_normal
+    second: {fileID: 2800000, guid: faea22303dd507647889ad77d57fa9b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanBody4_Clean_Pattern2Blue_color
+    second: {fileID: 2800000, guid: cb2c59cec30c27047b8766edb0f62858, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanSkirt5_Dirty_Yellow_color
+    second: {fileID: 2800000, guid: 8859b134867d41b49a70917f63d72818, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanSkirt5_Dirty_normal
+    second: {fileID: 2800000, guid: dcc1c4dd27b708c4c8e5d337cb01cb20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanSkirt5_Dirty_roughness
+    second: {fileID: 2800000, guid: 96abaa98958f7c94f85f0332ac87e98d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_color
+    second: {fileID: 2800000, guid: 5e89f9f3728dbdb4dad44e18477537fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_normal
+    second: {fileID: 2800000, guid: c55ca45fc8fdb774596cad7768885c87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_roughness
+    second: {fileID: 2800000, guid: 06908bf4b36a3014683b2bd28b3c4c6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_specular
+    second: {fileID: 2800000, guid: ec860734e08ec2342bf8cf546880c853, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 6c3c34030d50e5d49b7da549c12f8a08
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Alpha
+    second: {fileID: 2800000, guid: 0fed95b218f5edf42bd1d20ef125796f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eyes_color
+    second: {fileID: 2800000, guid: b75f49ed6adcafe4bacc4f66c2d24842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eyes_normal
+    second: {fileID: 2800000, guid: 36dbaff70b08bc044be5f5d86fc841e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Eyes_rough
+    second: {fileID: 2800000, guid: 873fb01cdf17511409a6699ffc142a4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gourd_color
+    second: {fileID: 2800000, guid: c3fafdd45a3fed246a787d2c9ca993e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gourd_normal
+    second: {fileID: 2800000, guid: 5a14d1b3b750248448bfb46843c821ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gourd_roughness
+    second: {fileID: 2800000, guid: 0125f413cf507d14b981d9c398e85d9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hat_color
+    second: {fileID: 2800000, guid: 0d1e00d03c573cd4482f3e64db086b8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hat_normal
+    second: {fileID: 2800000, guid: 3bc2856b719e6ba4aaa805cc99681c2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hat_roughness
+    second: {fileID: 2800000, guid: 46705525be23be6468d004654cc10a63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hat_specular
+    second: {fileID: 2800000, guid: 36482c5665de9de4a9775d2470cc153f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Hero_Eyelashes_normal
+    second: {fileID: 2800000, guid: 6877b866aa1b03a469823322011819b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LongHair_color1
+    second: {fileID: 2800000, guid: c132bf77fd8718d4f97b59a3794324a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: LongHair_normal
+    second: {fileID: 2800000, guid: 7ea52586a81cf634186063865bf4ee8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MC_1_Pants1_Blue_Pattern_normal
+    second: {fileID: 2800000, guid: 0300aac0465fd1145a78ca1d5fc43b96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MC_1_Pants1_Blue_Pattern_roughness
+    second: {fileID: 2800000, guid: c01003d68d48b734a9e1aa899deaa8eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_LittleBelt_Beige_color
+    second: {fileID: 2800000, guid: 1d1a426e89040bd418280e4664c45a98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_LittleBelt_normal
+    second: {fileID: 2800000, guid: 2b67915ebcf7ea74dbce00b5531c6b9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_LittleBelt_roughness
+    second: {fileID: 2800000, guid: ccca4069e4d1e6843a9a806dba7a565e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_RopeBelt_color
+    second: {fileID: 2800000, guid: 6c235d443d8fece489c1bb01673a76a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_RopeBelt_normal
+    second: {fileID: 2800000, guid: 07bda4f19ad3f9245ae530471027db03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_RopeBelt_roughness
+    second: {fileID: 2800000, guid: 6268342d32b7ce546ac4e983411af67e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManBody_RopeBelt_specular
+    second: {fileID: 2800000, guid: 7bae09cdd0863b1488b1dcfe14585cb2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ManPants1_Dirty_DGreen_color
+    second: {fileID: 2800000, guid: 44484e852fbcfd048b0482ef32bf19de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Man_Legs_color
+    second: {fileID: 2800000, guid: 69d2fd61e6e44d74fb6437ae61740622, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Man_Legs_normal
+    second: {fileID: 2800000, guid: e0f134cc22fcd42498800802f1a76a0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Man_Legs_roughness
+    second: {fileID: 2800000, guid: 2e54d303bce6cf247bbd214eba2ba8f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal
+    second: {fileID: 2800000, guid: 806e22b177e840b4d910ebee9fd9ed28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RaincoatFibers_color
+    second: {fileID: 2800000, guid: a5d1a01fb402f214f95b65aba1dd1d2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RaincoatFibers_normal
+    second: {fileID: 2800000, guid: 6104174dc92bdda4fa85901817b122c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RaincoatFibers_opacity
+    second: {fileID: 2800000, guid: 9e34998d38f8da748b366915e15e2f4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: RaincoatFibers_specular
+    second: {fileID: 2800000, guid: 6dbd490907cd2804680781adf987b636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Raincoat_color
+    second: {fileID: 2800000, guid: a0539f0a764934143b82c42322e6f61e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Raincoat_normal
+    second: {fileID: 2800000, guid: 7d9feac9a3fa1774684fa0bc46da0a00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Raincoat_roughness
+    second: {fileID: 2800000, guid: 11022170318a0c04b9159cfad5bd1d8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Raincoat_specular
+    second: {fileID: 2800000, guid: 1018fe54d5909cb4fb6c748bf8ae289a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sandals_Green_color
+    second: {fileID: 2800000, guid: be22afb4c37f3ed4ea2d0fd48c1d49be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sandals_Green_normal
+    second: {fileID: 2800000, guid: ca75827688560cc479541e61179243e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sandals_Green_roughness
+    second: {fileID: 2800000, guid: 7a356579d8d5cdb41b467013ac1ae81c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SeaFoods_color
+    second: {fileID: 2800000, guid: 62dffdee1c5485142a116d9d5b49679a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SeaFoods_normal
+    second: {fileID: 2800000, guid: 8651661129e8772429cf8b2641c5495d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SeaFoods_roughness
+    second: {fileID: 2800000, guid: 1202b64a9493bf740b34e03746c10fb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_color
+    second: {fileID: 2800000, guid: 229323492bd652c409c2465b9de17303, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_normal
+    second: {fileID: 2800000, guid: 62a090988a3a41d4e96a619dcbfd3f48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_rough
+    second: {fileID: 2800000, guid: c6429f207b51b5443b3682ad83028107, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Vicky_spec
+    second: {fileID: 2800000, guid: aa047170789e0c54c8c01bae7e605dbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: W_v4_shirt_roughness
+    second: {fileID: 2800000, guid: 75858c402050e2c419944a8a087f21ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanBody4_ Dirty_Green_color
+    second: {fileID: 2800000, guid: 624eaa3e5a8f9b549bcfaa34fb48d14a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanBody4_ Dirty_normal
+    second: {fileID: 2800000, guid: c054bb3ac323ad440914e46ce3be0424, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WomanBody4_Dirty_BluePattern6_color
+    second: {fileID: 2800000, guid: ea0b6b1048d6e714ba843070e62a9dec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_color
+    second: {fileID: 2800000, guid: 797d15c5988c9724aa86c57cecb5ccf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_normal
+    second: {fileID: 2800000, guid: 96308004beb9c4d458368062a934ec3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_roughness
+    second: {fileID: 2800000, guid: a23326493ddba1249a1b068f5d8c5370, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Woman_Arm_specular
+    second: {fileID: 2800000, guid: 14076787bfbc08e4da2dad359c3db6c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodenStuff_alpha
+    second: {fileID: 2800000, guid: 121c4a09b4d1acb479bdd77454c5b117, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodenStuff_color
+    second: {fileID: 2800000, guid: 6fdbe0386ec29c0428508457c13787ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodenStuff_metallic
+    second: {fileID: 2800000, guid: f4d02f3ca6ea5ca44abe75a604ffe2aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodenStuff_normal
+    second: {fileID: 2800000, guid: b05fa8a959573614ab8cb7cbd80a2a11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodenStuff_roughness
+    second: {fileID: 2800000, guid: 42930974b61c91348b0147e1493fe0e2, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
